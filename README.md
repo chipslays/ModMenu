@@ -2,7 +2,7 @@
 
 Simple skeleton example for GTA V mod.
 
-# Requeris
+# Requires
 [Script Hook V .NET](https://github.com/crosire/scripthookvdotnet)
 
 [NativeUI](https://github.com/Guad/NativeUI)
